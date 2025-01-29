@@ -1,22 +1,28 @@
-💫Project Title : CRUD Operations With JDBC and Statement 💫
+# JDBC CRUD Operations with Statement API  
 
+## Description  
+This project demonstrates CRUD (Create, Read, Update, Delete) operations using JDBC Statement API in Java.  
+It connects to a MySQL database and performs basic operations on a table.  
 
+## Features  
+- Insert data into the database  
+- Retrieve data from the database  
+- Update existing records  
+- Delete records  
 
-Project Description: This Project Demostrates CRUD (Create,Read,Update ,Delete) Operations using JDBC Statement API in Java .It connects to mysql database and performs basic operations on a table.
+## Technologies Used  
+- Java  
+- JDBC  
+- MySQL  
+- Eclipse/IntelliJ  
 
+## Setup Instructions  
+1. Install MySQL and create a database.  
+2. Update database credentials in the project (url, username, password).  
+3. Run the Java files to execute CRUD operations.  
 
-Features:
-Insert data intothe database 
+## Usage  
+- Run the Main class to perform CRUD operations.  
 
-Retrive data from the database
-
-Delete Records
-
-
-Technologies Used
-
-Java |
-JDBC |
-Mysql |
-Eclipse |
-
+## License  
+This project is open-source. Feel free to use and modify it.
