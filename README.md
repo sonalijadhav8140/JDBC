@@ -1,7 +1,7 @@
 # JDBC CRUD Operations with Statement API  
 
 ## Description  
-This project demonstrates CRUD (Create, Read, Update, Delete) operations using JDBC Statement API in Java.  
+This project demonstrates CRUD (Create, Read, Update, Delete) operations using JDBC Statement API in Java There are Also Two Packages One Package takes input from  user.   
 It connects to a MySQL database and performs basic operations on a table.  
 
 ## Features  
